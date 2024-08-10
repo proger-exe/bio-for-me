@@ -21,7 +21,7 @@ $(function () {
 });
 $(function () {
     $(".typed").typed({
-        strings: [ "I see the future...", "No, needn't", "Oh, i see you think you can? Good luck", "Why no.", "It's luck, bro"],
+        strings: [ "Original snake 100%", "Shhhh", "Змей кодит на питоне...", "Shhhh", "Ssssssnakeeee....", "Спасибо, Гарри (sss)"],
         typeSpeed: 50,
         loop: true,
         cursorChar: "$",
